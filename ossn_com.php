@@ -2,7 +2,7 @@
 
  
 define('__ACF__', ossn_route()->com . 'OssnProfanityFilter/');
-require_once(__ACF__ . 'libraries/acfreplace.lib.php');
+require_once(__ACF__ . 'acfreplace.lib.php');
 
 /* *
  * @note Please don't call this function directly in your code.
