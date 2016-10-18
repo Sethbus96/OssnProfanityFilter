@@ -12,6 +12,8 @@ function replacer($text) {
             'pussy',
             'cunt',
             'dick',
+	    'ass',
+	    'shit',
             'vagina',
             'penis',
             'doggystyle',
