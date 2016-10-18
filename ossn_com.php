@@ -1,7 +1,7 @@
 <?php
 
  
-define('__ACF__', ossn_route()->com . 'OssnProfanityFilter/');
+define('__ACF__', ossn_route()->com . 'ProfanityFilter/');
 require_once(__ACF__ . 'acfreplace.lib.php');
 
 /* *
